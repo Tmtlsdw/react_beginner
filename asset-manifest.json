@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react_beginner/static/css/main.d0a4364e.chunk.css",
+    "main.js": "/react_beginner/static/js/main.90458110.chunk.js",
+    "main.js.map": "/react_beginner/static/js/main.90458110.chunk.js.map",
+    "runtime-main.js": "/react_beginner/static/js/runtime-main.f6f8c818.js",
+    "runtime-main.js.map": "/react_beginner/static/js/runtime-main.f6f8c818.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/react_beginner/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7c96b5a3.chunk.js": "/react_beginner/static/js/2.7c96b5a3.chunk.js",
+    "static/js/2.7c96b5a3.chunk.js.map": "/react_beginner/static/js/2.7c96b5a3.chunk.js.map",
+    "index.html": "/react_beginner/index.html",
+    "precache-manifest.183cdcc0c3831c286732317fb21aed4b.js": "/react_beginner/precache-manifest.183cdcc0c3831c286732317fb21aed4b.js",
+    "service-worker.js": "/react_beginner/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/react_beginner/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d0a4364e.chunk.css.map": "/react_beginner/static/css/main.d0a4364e.chunk.css.map",
+    "static/js/2.7c96b5a3.chunk.js.LICENSE.txt": "/react_beginner/static/js/2.7c96b5a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6f8c818.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7c96b5a3.chunk.js",
+    "static/css/main.d0a4364e.chunk.css",
+    "static/js/main.90458110.chunk.js"
+  ]
+}
