@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
-
+import 'tachyons';
+import CardList from './CardList';
+import {generator} from "./generator";
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+   <div>
+       <CardList cats={generator(30)}/>
+   </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
